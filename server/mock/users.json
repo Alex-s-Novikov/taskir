@@ -1,0 +1,13 @@
+[
+{
+  "_id": {
+    "$oid": "626258a4fa47ef74651a8091"
+  },
+  "username": "test",
+  "email": "test@test.test",
+  "password": "$2a$12$nNM84Q9h7BsLTzlBL41J2e2yHN1n6XM25ufk5MdbBnOqEF4AnbgTO",
+  "isAdmin": true,
+  "createdAt": "2022-04-12",
+  "updatedAt": "2022-04-12",
+  "__v": 0
+}]

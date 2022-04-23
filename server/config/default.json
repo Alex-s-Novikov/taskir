@@ -1,0 +1,7 @@
+{
+    "PORT": 5000,
+    "CLIENT_URL": "http://localhost:3000",
+    "DB_URI": "mongodb://mongoadmin:mongosecret@127.0.0.1:27017/Taskir",
+    "JWT_ACCESS_SECRET": "rhemWpBWWTRvWbjK9h",
+    "JWT_REFRESH_SECRET": "n4sGDEBKnZL80JRvR59ex7fdmeMfSMVppnKx"
+}

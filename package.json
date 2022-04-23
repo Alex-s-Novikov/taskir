@@ -1,0 +1,12 @@
+{
+    "name": "taskir",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start-client": "cd client && npm start",
+        "start-server": "cd server && npm run server"
+    },
+    "author": "",
+    "license": "ISC"
+}
